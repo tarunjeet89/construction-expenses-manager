@@ -9,6 +9,7 @@ class ConstructionExpensesManagerApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
